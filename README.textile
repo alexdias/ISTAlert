@@ -18,6 +18,11 @@ The crontab job will be something like this:
 
 @*/x	*	*	* 	*	ruby bot.rb@
 
+And for the python version:
+
+@*/x	*	*	*	*	python botpy.py@
+
+
 in which x is the desired minutes interval
 
 Fork and enjoy. ;)
